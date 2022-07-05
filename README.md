@@ -1,4 +1,4 @@
-# Curso de Introdução ao Full Stack da Cataline
+# Introdução ao Full Stack
 
 ## Tecnologias Utilizadas.
 - Vue JS

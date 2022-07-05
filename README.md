@@ -19,7 +19,7 @@
 - Introdução ao Vue JS
 - Diretivas,
 - Uso de Methods, e ganchos como Created,
-- Criar elemenentos com lop em arrays.
+- Criar elemenentos com loop em arrays.
 - Importar estilos globais
 - Css nos componentes
 - Componentização no Vue Js
